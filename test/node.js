@@ -12,7 +12,7 @@ node.chai.config.includeStack = true;
 node.supertest = require('supertest');
 
 // Node configuration
-node.baseUrl = 'http://localhost:6040';
+node.baseUrl = 'http://localhost:80';
 node.api = node.supertest(node.baseUrl);
 
 function abstractRequest (options, done) {
