@@ -12,7 +12,7 @@ AppTools.directive ('qrcode', () => {
             content: $attrs.data.toUpperCase(),
             width: 220,
             logo: {
-                src: $attrs.imd_src || '/adm-qr-invert.png',
+                src: $attrs.imd_src || '/g50-qr-invert.png',
                 borderSize: 0,
                 borderRadius: 50,
                 logoSize: 0.25
