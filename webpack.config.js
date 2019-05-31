@@ -36,8 +36,8 @@ module.exports = env => ({
         compress: true,
         port: 9001,
         proxy: {
-            "/socket.io": "http://localhost:6040",
-            "/api": "http://localhost:6040"
+            "/socket.io": "http://localhost:80",
+            "/api": "http://localhost:80"
         }
     },
     resolve: {

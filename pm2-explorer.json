@@ -1,6 +1,6 @@
 {
         "apps": [{
-                "name": "adamant-explorer",
+                "name": "grand50-explorer",
                 "script": "app.js",
                 "cwd": ".",
                 "pid_file": "./pids/explorer.app.pid",

@@ -22,7 +22,7 @@ Feature: Delegate Monitor
       """
       DELEGATES
       403
-      101 active delegates
+      11 active delegates
       302 delegates on standby
       """
     And I should see "last block" element with content that matches:
@@ -42,7 +42,7 @@ Feature: Delegate Monitor
       """
       TOTAL FORGED \(LSK\)
       \d{1,3},\d{3}\.\d{8}
-      between 101 active delegates
+      between 11 active delegates
       """
     And I should see "best forger" element with content that matches:
       """
@@ -63,7 +63,7 @@ Feature: Delegate Monitor
       \d{1,3}(\.\d\d?)?%
       by genesis_\d{1,3}
       """
-    And I should see table "active delegates" with 101 rows starting with:
+    And I should see table "active delegates" with 11 rows starting with:
       | Rank | Name              | Address      | Forged              | Forging time | Status | Productivity         | Approval            |
       |------|-------------------|--------------|---------------------|--------------|--------|----------------------|---------------------|
       | 1    | /genesis_\d{1,3}/ | /\d{10,20}L/ | /1,\d{3}.\d{8} LSK/ | /.+/         |        | /\d{2,3}(\.\d{2})?%/ |/\d{2,3}(\.\d{2})?%/ |
@@ -75,7 +75,7 @@ Feature: Delegate Monitor
   Scenario: should allow to sort active delegates
     Given I'm on page "/delegateMonitor"
     When I click link on header cell no. 2 of "active delegates" table
-    Then I should see table "active delegates" with 101 rows starting with:
+    Then I should see table "active delegates" with 11 rows starting with:
       | Rank      | Name      | Address      | Forged              | Forging time | Status | Productivity         | Approval            |
       |-----------|-----------|--------------|---------------------|--------------|--------|----------------------|---------------------|
       | /\d{1,3}/ | genesis_1 | /\d{10,20}L/ | /1,\d{3}.\d{8} LSK/ | /.+/         |        | /\d{2,3}(\.\d{2})?%/ |/\d{2,3}(\.\d{2})?%/ |
