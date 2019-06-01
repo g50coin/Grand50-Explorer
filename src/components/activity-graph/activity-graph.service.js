@@ -243,7 +243,7 @@ ActivityGraph.prototype.addAccount = function (id) {
     });
 };
 
-ActivityGraph.prototype.amount = (tx, sign) => `${sign + tx.amount / Math.pow(10, 8)} ADM`;
+ActivityGraph.prototype.amount = (tx, sign) => `${sign + tx.amount / Math.pow(10, 8)} G50`;
 
 ActivityGraph.prototype.addTxSender = function (tx) {
     this.addAccount(tx.senderId);

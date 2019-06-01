@@ -452,7 +452,7 @@ qrcode canvas {
 .navbar-brand .logo {
   height: 80px;
   width: 80px;
-  background: url('../img/adm-exp-logo-light-256x256.png') no-repeat top left;
+  background: url('../img/g50-exp-logo-light-256x256.png') no-repeat top left;
    background-size: 80px 80px;
    line-height: 55px;
    padding-left: 55px;
@@ -473,7 +473,7 @@ qrcode canvas {
        (min-resolution: 192dpi) {
 
   	.navbar-brand .logo {
-      background: url('../img/adm-exp-logo-light-256x256.png') no-repeat top left;
+      background: url('../img/g50-exp-logo-light-256x256.png') no-repeat top left;
       background-size: 64px 64px;
       line-height: 55px;
       padding-left: 55px;
