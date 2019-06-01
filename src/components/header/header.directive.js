@@ -9,7 +9,7 @@ import template from './header.html'
 AppHeader.directive('mainHeader', ($socket, $rootScope, Header) => {
   const HeaderLink = () => {
     $rootScope.currency = {
-      symbol: 'ADM'
+      symbol: 'G50'
     }
 
     const header = new Header($rootScope)
