@@ -1,0 +1,1144 @@
+{"level":"INFO","timestamp":1559574708248,"message":"KnownAddresses: Loading known addresses..."}
+{"level":"INFO","timestamp":1559574708249,"message":"KnownAddresses: 6"}
+{"level":"INFO","timestamp":1559574708254,"message":"Loading routes..."}
+{"level":"INFO","timestamp":1559574708255,"message":"Routes loaded"}
+{"level":"INFO","timestamp":1559574708257,"message":"Lisk Explorer started at 0.0.0.0:6041"}
+{"level":"INFO","timestamp":1559574730090,"message":"robots.txt"}
+{"level":"INFO","timestamp":1559574730101,"message":"127.0.0.1 - - [03/Jun/2019:15:12:10 +0000] \"GET /robots.txt HTTP/1.1\" 200 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559597877906,"message":"KnownAddresses: Loading known addresses..."}
+{"level":"INFO","timestamp":1559597877908,"message":"KnownAddresses: 6"}
+{"level":"INFO","timestamp":1559597877914,"message":"Loading routes..."}
+{"level":"INFO","timestamp":1559597877916,"message":"Routes loaded"}
+{"level":"INFO","timestamp":1559597877921,"message":"Lisk Explorer started at 0.0.0.0:6042"}
+{"level":"INFO","timestamp":1559597895158,"message":"robots.txt"}
+{"level":"INFO","timestamp":1559597895179,"message":"127.0.0.1 - - [03/Jun/2019:21:38:15 +0000] \"GET /robots.txt HTTP/1.1\" 200 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559597895985,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559597895995,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559597896001,"message":"127.0.0.1 - - [03/Jun/2019:21:38:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 127 \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559597896003,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559597896007,"message":"127.0.0.1 - - [03/Jun/2019:21:38:16 +0000] \"GET /api/exchanges HTTP/1.1\" 200 47 \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559597896008,"message":"127.0.0.1 - - [03/Jun/2019:21:38:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 127 \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559597896102,"message":"Header: Emitting existing delegate proposals"}
+{"level":"INFO","timestamp":1559597896103,"message":"Header: Emitting existing data"}
+{"level":"INFO","timestamp":1559597896104,"message":"Header: First connection"}
+{"level":"ERROR","timestamp":1559597896111,"message":"Header: Error retrieving: Status"}
+{"level":"INFO","timestamp":1559597926877,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559597926880,"message":"127.0.0.1 - - [03/Jun/2019:21:38:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559597926881,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559597926883,"message":"127.0.0.1 - - [03/Jun/2019:21:38:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559597956852,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559597956856,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559597956857,"message":"127.0.0.1 - - [03/Jun/2019:21:39:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559597956861,"message":"127.0.0.1 - - [03/Jun/2019:21:39:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559597986856,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559597986860,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559597986863,"message":"127.0.0.1 - - [03/Jun/2019:21:39:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559597986868,"message":"127.0.0.1 - - [03/Jun/2019:21:39:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598016854,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598016855,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598016860,"message":"127.0.0.1 - - [03/Jun/2019:21:40:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598016863,"message":"127.0.0.1 - - [03/Jun/2019:21:40:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598046857,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598046859,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598046863,"message":"127.0.0.1 - - [03/Jun/2019:21:40:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598046864,"message":"127.0.0.1 - - [03/Jun/2019:21:40:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598076854,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598076858,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598076862,"message":"127.0.0.1 - - [03/Jun/2019:21:41:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598076866,"message":"127.0.0.1 - - [03/Jun/2019:21:41:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598106855,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598106858,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598106860,"message":"127.0.0.1 - - [03/Jun/2019:21:41:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598106864,"message":"127.0.0.1 - - [03/Jun/2019:21:41:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598136855,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598136858,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598136860,"message":"127.0.0.1 - - [03/Jun/2019:21:42:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598136864,"message":"127.0.0.1 - - [03/Jun/2019:21:42:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598166854,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598166856,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598166861,"message":"127.0.0.1 - - [03/Jun/2019:21:42:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598166862,"message":"127.0.0.1 - - [03/Jun/2019:21:42:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598196854,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598196857,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598196861,"message":"127.0.0.1 - - [03/Jun/2019:21:43:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598196863,"message":"127.0.0.1 - - [03/Jun/2019:21:43:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598226848,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598226848,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598226850,"message":"127.0.0.1 - - [03/Jun/2019:21:43:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598226852,"message":"127.0.0.1 - - [03/Jun/2019:21:43:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598256851,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598256855,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598256857,"message":"127.0.0.1 - - [03/Jun/2019:21:44:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598256860,"message":"127.0.0.1 - - [03/Jun/2019:21:44:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598286853,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598286854,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598286856,"message":"127.0.0.1 - - [03/Jun/2019:21:44:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598286858,"message":"127.0.0.1 - - [03/Jun/2019:21:44:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598316853,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598316857,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598316859,"message":"127.0.0.1 - - [03/Jun/2019:21:45:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598316862,"message":"127.0.0.1 - - [03/Jun/2019:21:45:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598346854,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598346855,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598346859,"message":"127.0.0.1 - - [03/Jun/2019:21:45:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598346861,"message":"127.0.0.1 - - [03/Jun/2019:21:45:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598376852,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598376852,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598376856,"message":"127.0.0.1 - - [03/Jun/2019:21:46:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598376857,"message":"127.0.0.1 - - [03/Jun/2019:21:46:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598406855,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598406862,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598406863,"message":"127.0.0.1 - - [03/Jun/2019:21:46:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598406867,"message":"127.0.0.1 - - [03/Jun/2019:21:46:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598436855,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598436858,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598436860,"message":"127.0.0.1 - - [03/Jun/2019:21:47:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598436864,"message":"127.0.0.1 - - [03/Jun/2019:21:47:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598466856,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598466858,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598466860,"message":"127.0.0.1 - - [03/Jun/2019:21:47:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598466862,"message":"127.0.0.1 - - [03/Jun/2019:21:47:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598496854,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598496857,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598496859,"message":"127.0.0.1 - - [03/Jun/2019:21:48:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598496863,"message":"127.0.0.1 - - [03/Jun/2019:21:48:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598526857,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598526859,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598526862,"message":"127.0.0.1 - - [03/Jun/2019:21:48:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598526869,"message":"127.0.0.1 - - [03/Jun/2019:21:48:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598556853,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598556857,"message":"127.0.0.1 - - [03/Jun/2019:21:49:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598556858,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598556862,"message":"127.0.0.1 - - [03/Jun/2019:21:49:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598586851,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598586853,"message":"127.0.0.1 - - [03/Jun/2019:21:49:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598586854,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598586856,"message":"127.0.0.1 - - [03/Jun/2019:21:49:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598616854,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598616856,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598616860,"message":"127.0.0.1 - - [03/Jun/2019:21:50:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598616863,"message":"127.0.0.1 - - [03/Jun/2019:21:50:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598646858,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598646860,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598646866,"message":"127.0.0.1 - - [03/Jun/2019:21:50:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598646868,"message":"127.0.0.1 - - [03/Jun/2019:21:50:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598676856,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598676858,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598676863,"message":"127.0.0.1 - - [03/Jun/2019:21:51:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598676866,"message":"127.0.0.1 - - [03/Jun/2019:21:51:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598706857,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598706858,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598706863,"message":"127.0.0.1 - - [03/Jun/2019:21:51:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598706865,"message":"127.0.0.1 - - [03/Jun/2019:21:51:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598736857,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598736859,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598736864,"message":"127.0.0.1 - - [03/Jun/2019:21:52:16 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598736866,"message":"127.0.0.1 - - [03/Jun/2019:21:52:16 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598766849,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559598766849,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559598766853,"message":"127.0.0.1 - - [03/Jun/2019:21:52:46 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559598766854,"message":"127.0.0.1 - - [03/Jun/2019:21:52:46 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559618978638,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559618978642,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559618978644,"message":"127.0.0.1 - - [04/Jun/2019:03:29:38 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559618978648,"message":"127.0.0.1 - - [04/Jun/2019:03:29:38 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559635981751,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559635981753,"message":"127.0.0.1 - - [04/Jun/2019:08:13:01 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559635981759,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559635981761,"message":"127.0.0.1 - - [04/Jun/2019:08:13:01 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654005048,"message":"KnownAddresses: Loading known addresses..."}
+{"level":"INFO","timestamp":1559654005049,"message":"KnownAddresses: 6"}
+{"level":"INFO","timestamp":1559654005059,"message":"Loading routes..."}
+{"level":"INFO","timestamp":1559654005061,"message":"Routes loaded"}
+{"level":"INFO","timestamp":1559654005064,"message":"Lisk Explorer started at 0.0.0.0:6042"}
+{"level":"INFO","timestamp":1559654033065,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654033078,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654033078,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654033088,"message":"127.0.0.1 - - [04/Jun/2019:13:13:53 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654033189,"message":"Header: Emitting existing delegate proposals"}
+{"level":"INFO","timestamp":1559654033190,"message":"Header: Emitting existing data"}
+{"level":"INFO","timestamp":1559654033191,"message":"Header: First connection"}
+{"level":"INFO","timestamp":1559654033254,"message":"127.0.0.1 - - [04/Jun/2019:13:13:53 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 131 \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654033273,"message":"127.0.0.1 - - [04/Jun/2019:13:13:53 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 131 \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"ERROR","timestamp":1559654033428,"message":"Header: Error retrieving: Status"}
+{"level":"INFO","timestamp":1559654063082,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654063084,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654063264,"message":"127.0.0.1 - - [04/Jun/2019:13:14:23 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654063266,"message":"127.0.0.1 - - [04/Jun/2019:13:14:23 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654093062,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654093069,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654093334,"message":"127.0.0.1 - - [04/Jun/2019:13:14:53 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654093336,"message":"127.0.0.1 - - [04/Jun/2019:13:14:53 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654138294,"message":"KnownAddresses: Loading known addresses..."}
+{"level":"INFO","timestamp":1559654138295,"message":"KnownAddresses: 6"}
+{"level":"INFO","timestamp":1559654138302,"message":"Loading routes..."}
+{"level":"INFO","timestamp":1559654138304,"message":"Routes loaded"}
+{"level":"INFO","timestamp":1559654138308,"message":"Lisk Explorer started at 0.0.0.0:6042"}
+{"level":"INFO","timestamp":1559654140392,"message":"Header: Emitting existing delegate proposals"}
+{"level":"INFO","timestamp":1559654140393,"message":"Header: Emitting existing data"}
+{"level":"INFO","timestamp":1559654140401,"message":"Header: First connection"}
+{"level":"INFO","timestamp":1559654140956,"message":"Header: Emitting new data"}
+{"level":"INFO","timestamp":1559654146408,"message":"Header: Closed connection"}
+{"level":"INFO","timestamp":1559654147317,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654147319,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654147328,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654147336,"message":"127.0.0.1 - - [04/Jun/2019:13:15:47 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654147416,"message":"Header: Emitting existing delegate proposals"}
+{"level":"INFO","timestamp":1559654147416,"message":"Header: Emitting existing data"}
+{"level":"INFO","timestamp":1559654147417,"message":"Header: First connection"}
+{"level":"INFO","timestamp":1559654147769,"message":"Header: Emitting new data"}
+{"level":"INFO","timestamp":1559654149502,"message":"api"}
+{"level":"INFO","timestamp":1559654149517,"message":"127.0.0.1 - - [04/Jun/2019:13:15:49 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654158332,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654161294,"message":"api"}
+{"level":"INFO","timestamp":1559654161300,"message":"127.0.0.1 - - [04/Jun/2019:13:16:01 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654168599,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654176347,"message":"/api/getAccount?address=G12663386149351401052"}
+{"level":"INFO","timestamp":1559654176349,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654176351,"message":"127.0.0.1 - - [04/Jun/2019:13:16:16 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost:6042/address/G12663386149351401052\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654177314,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654177319,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654177322,"message":"127.0.0.1 - - [04/Jun/2019:13:16:17 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/address/G12663386149351401052\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654178126,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654181930,"message":"api"}
+{"level":"INFO","timestamp":1559654181932,"message":"127.0.0.1 - - [04/Jun/2019:13:16:21 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/address/G12663386149351401052\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654182731,"message":"api"}
+{"level":"INFO","timestamp":1559654182734,"message":"127.0.0.1 - - [04/Jun/2019:13:16:22 +0000] \"GET /api/getAccount?address=G12663386149351401052 HTTP/1.1\" 200 414 \"http://localhost:6042/address/G12663386149351401052\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654182801,"message":"/api/getTransfersByAddress?address=G12663386149351401052&key=transactions&limit=51&offset=0&parent=address&url=%2Fapi%2FgetTransfersByAddress"}
+{"level":"INFO","timestamp":1559654187443,"message":"api"}
+{"level":"INFO","timestamp":1559654187451,"message":"127.0.0.1 - - [04/Jun/2019:13:16:27 +0000] \"GET /api/getTransfersByAddress?address=G12663386149351401052&key=transactions&limit=51&offset=0&parent=address&url=%2Fapi%2FgetTransfersByAddress HTTP/1.1\" 200 - \"http://localhost:6042/address/G12663386149351401052\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654188572,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654198603,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654205122,"message":"/api/getAccount?address=G8859852583352394923"}
+{"level":"INFO","timestamp":1559654205124,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654205125,"message":"127.0.0.1 - - [04/Jun/2019:13:16:45 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost:6042/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654207313,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654207317,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654207791,"message":"api"}
+{"level":"INFO","timestamp":1559654207792,"message":"127.0.0.1 - - [04/Jun/2019:13:16:47 +0000] \"GET /api/getAccount?address=G8859852583352394923 HTTP/1.1\" 200 319 \"http://localhost:6042/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654207821,"message":"/api/getTransfersByAddress?address=G8859852583352394923&key=transactions&limit=51&offset=0&parent=address&url=%2Fapi%2FgetTransfersByAddress"}
+{"level":"INFO","timestamp":1559654208132,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654208530,"message":"api"}
+{"level":"INFO","timestamp":1559654208537,"message":"127.0.0.1 - - [04/Jun/2019:13:16:48 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 - \"http://localhost:6042/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654208935,"message":"api"}
+{"level":"INFO","timestamp":1559654208937,"message":"127.0.0.1 - - [04/Jun/2019:13:16:48 +0000] \"GET /api/getTransfersByAddress?address=G8859852583352394923&key=transactions&limit=51&offset=0&parent=address&url=%2Fapi%2FgetTransfersByAddress HTTP/1.1\" 200 627 \"http://localhost:6042/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654211475,"message":"/api/delegates/getStandby?n=0"}
+{"level":"INFO","timestamp":1559654211477,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654211479,"message":"127.0.0.1 - - [04/Jun/2019:13:16:51 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost:6042/delegateMonitor\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654211479,"message":"api"}
+{"level":"INFO","timestamp":1559654211482,"message":"127.0.0.1 - - [04/Jun/2019:13:16:51 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 - \"http://localhost:6042/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654211548,"message":"Delegate Monitor: Emitting existing data"}
+{"level":"INFO","timestamp":1559654211551,"message":"Delegate Monitor: First connection"}
+{"level":"INFO","timestamp":1559654211832,"message":"api"}
+{"level":"INFO","timestamp":1559654211834,"message":"127.0.0.1 - - [04/Jun/2019:13:16:51 +0000] \"GET /api/delegates/getStandby?n=0 HTTP/1.1\" 200 100 \"http://localhost:6042/delegateMonitor\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654212857,"message":"Delegate Monitor: Emitting new data"}
+{"level":"ERROR","timestamp":1559654213865,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654214020,"message":"Delegate Monitor: Emitting last blocks for: rough[24]"}
+{"level":"INFO","timestamp":1559654214024,"message":"Delegate Monitor: Emitting last blocks for: limb[39]"}
+{"level":"INFO","timestamp":1559654214025,"message":"Delegate Monitor: Emitting last blocks for: pact[6]"}
+{"level":"INFO","timestamp":1559654214026,"message":"Delegate Monitor: Emitting last blocks for: window[10]"}
+{"level":"INFO","timestamp":1559654214475,"message":"Delegate Monitor: Emitting last blocks for: cigar[1]"}
+{"level":"ERROR","timestamp":1559654214866,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654215358,"message":"Delegate Monitor: Emitting last blocks for: direct[2]"}
+{"level":"INFO","timestamp":1559654215806,"message":"Delegate Monitor: Emitting last blocks for: mosquito[3]"}
+{"level":"ERROR","timestamp":1559654215866,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654216249,"message":"Delegate Monitor: Emitting last blocks for: index[4]"}
+{"level":"ERROR","timestamp":1559654216866,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654217137,"message":"Delegate Monitor: Emitting last blocks for: desk[5]"}
+{"level":"INFO","timestamp":1559654217837,"message":"Delegate Monitor: Emitting last blocks for: puzzle[7]"}
+{"level":"ERROR","timestamp":1559654217867,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654218573,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654218575,"message":"Delegate Monitor: Emitting last blocks for: tunnel[8]"}
+{"level":"ERROR","timestamp":1559654218867,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654219867,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654220867,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654221868,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654222866,"message":"Delegate Monitor: Error retrieving: getRegistrations (already running)"}
+{"level":"ERROR","timestamp":1559654222867,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654223732,"message":"Delegate Monitor: Emitting last blocks for: unfold[9]"}
+{"level":"INFO","timestamp":1559654223735,"message":"Delegate Monitor: Emitting data"}
+{"level":"ERROR","timestamp":1559654223869,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654224870,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654225097,"message":"Delegate Monitor: Emitting last blocks for: horn[11]"}
+{"level":"INFO","timestamp":1559654225484,"message":"Delegate Monitor: Emitting last blocks for: industry[12]"}
+{"level":"ERROR","timestamp":1559654225870,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654226265,"message":"Delegate Monitor: Emitting last blocks for: magnet[13]"}
+{"level":"INFO","timestamp":1559654226762,"message":"Delegate Monitor: Emitting last blocks for: bring[14]"}
+{"level":"ERROR","timestamp":1559654226870,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654227582,"message":"Delegate Monitor: Emitting last blocks for: quick[15]"}
+{"level":"ERROR","timestamp":1559654227871,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654227957,"message":"Delegate Monitor: Emitting last blocks for: cup[16]"}
+{"level":"INFO","timestamp":1559654228126,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654228316,"message":"Delegate Monitor: Emitting last blocks for: pill[17]"}
+{"level":"INFO","timestamp":1559654228717,"message":"Delegate Monitor: Emitting last blocks for: drastic[18]"}
+{"level":"ERROR","timestamp":1559654228872,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654229126,"message":"Delegate Monitor: Emitting last blocks for: mouse[19]"}
+{"level":"INFO","timestamp":1559654229229,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654229515,"message":"Delegate Monitor: Emitting last blocks for: armor[20]"}
+{"level":"ERROR","timestamp":1559654229873,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654230133,"message":"Delegate Monitor: Emitting last blocks for: hammer[21]"}
+{"level":"INFO","timestamp":1559654230688,"message":"Delegate Monitor: Emitting last blocks for: anxiety[22]"}
+{"level":"ERROR","timestamp":1559654230873,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654231047,"message":"Delegate Monitor: Emitting last blocks for: caution[23]"}
+{"level":"INFO","timestamp":1559654231682,"message":"Delegate Monitor: Emitting last blocks for: citizen[25]"}
+{"level":"ERROR","timestamp":1559654231873,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654232487,"message":"Delegate Monitor: Emitting last blocks for: weapon[26]"}
+{"level":"ERROR","timestamp":1559654232873,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654232874,"message":"Delegate Monitor: Emitting last blocks for: first[27]"}
+{"level":"ERROR","timestamp":1559654233873,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654233934,"message":"Delegate Monitor: Emitting last blocks for: control[28]"}
+{"level":"ERROR","timestamp":1559654234873,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654235873,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654236874,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654237312,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654237316,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654237457,"message":"Delegate Monitor: Emitting last blocks for: age[29]"}
+{"level":"INFO","timestamp":1559654237856,"message":"Delegate Monitor: Emitting last blocks for: execute[30]"}
+{"level":"ERROR","timestamp":1559654237866,"message":"Delegate Monitor: Error retrieving: getActive (already running)"}
+{"level":"ERROR","timestamp":1559654237874,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654237965,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654238152,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654238237,"message":"Delegate Monitor: Emitting last blocks for: this[31]"}
+{"level":"INFO","timestamp":1559654238515,"message":"api"}
+{"level":"INFO","timestamp":1559654238518,"message":"127.0.0.1 - - [04/Jun/2019:13:17:18 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/delegateMonitor\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654238606,"message":"Delegate Monitor: Emitting last blocks for: what[32]"}
+{"level":"ERROR","timestamp":1559654238874,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654239002,"message":"Delegate Monitor: Emitting last blocks for: violin[33]"}
+{"level":"INFO","timestamp":1559654239364,"message":"Delegate Monitor: Emitting last blocks for: grain[34]"}
+{"level":"INFO","timestamp":1559654239730,"message":"Delegate Monitor: Emitting last blocks for: pipe[35]"}
+{"level":"ERROR","timestamp":1559654239874,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654240097,"message":"Delegate Monitor: Emitting last blocks for: spray[36]"}
+{"level":"INFO","timestamp":1559654240366,"message":"api"}
+{"level":"INFO","timestamp":1559654240372,"message":"127.0.0.1 - - [04/Jun/2019:13:17:20 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/delegateMonitor\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654240455,"message":"Delegate Monitor: Emitting last blocks for: girl[37]"}
+{"level":"ERROR","timestamp":1559654240874,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654241192,"message":"Delegate Monitor: Emitting last blocks for: suspect[38]"}
+{"level":"ERROR","timestamp":1559654241875,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654242123,"message":"Delegate Monitor: Emitting last blocks for: hollow[40]"}
+{"level":"INFO","timestamp":1559654242871,"message":"Delegate Monitor: Emitting last blocks for: gaze[41]"}
+{"level":"ERROR","timestamp":1559654242875,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654243876,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654243978,"message":"Delegate Monitor: Emitting last blocks for: venture[42]"}
+{"level":"ERROR","timestamp":1559654244877,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654245877,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654246879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654247153,"message":"Delegate Monitor: Emitting last blocks for: spoil[43]"}
+{"level":"INFO","timestamp":1559654247521,"message":"Delegate Monitor: Emitting last blocks for: artefact[44]"}
+{"level":"ERROR","timestamp":1559654247867,"message":"Delegate Monitor: Error retrieving: getActive (already running)"}
+{"level":"ERROR","timestamp":1559654247879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654247884,"message":"Delegate Monitor: Emitting last blocks for: walnut[45]"}
+{"level":"INFO","timestamp":1559654248129,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654248142,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654248245,"message":"Delegate Monitor: Emitting last blocks for: clutch[46]"}
+{"level":"INFO","timestamp":1559654248418,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654248419,"message":"127.0.0.1 - - [04/Jun/2019:13:17:28 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost:6042/networkMonitor\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654248485,"message":"Network Monitor: Emitting existing data"}
+{"level":"INFO","timestamp":1559654248487,"message":"Network Monitor: First connection"}
+{"level":"INFO","timestamp":1559654248628,"message":"Delegate Monitor: Emitting last blocks for: season[47]"}
+{"level":"ERROR","timestamp":1559654248879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654249008,"message":"Delegate Monitor: Emitting last blocks for: pet[48]"}
+{"level":"INFO","timestamp":1559654249366,"message":"Delegate Monitor: Emitting last blocks for: melody[49]"}
+{"level":"INFO","timestamp":1559654249735,"message":"Delegate Monitor: Emitting last blocks for: spatial[50]"}
+{"level":"ERROR","timestamp":1559654249879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654250097,"message":"Delegate Monitor: Emitting last blocks for: reflect[51]"}
+{"level":"INFO","timestamp":1559654250727,"message":"Delegate Monitor: Emitting last blocks for: arm[52]"}
+{"level":"ERROR","timestamp":1559654250879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654251651,"message":"Delegate Monitor: Emitting last blocks for: enjoy[53]"}
+{"level":"ERROR","timestamp":1559654251879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654252570,"message":"Delegate Monitor: Emitting last blocks for: abandon[54]"}
+{"level":"ERROR","timestamp":1559654252879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654253073,"message":"Delegate Monitor: Emitting last blocks for: deal[55]"}
+{"level":"INFO","timestamp":1559654253492,"message":"Delegate Monitor: Emitting last blocks for: distance[56]"}
+{"level":"ERROR","timestamp":1559654253879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654254125,"message":"Delegate Monitor: Emitting last blocks for: airport[57]"}
+{"level":"INFO","timestamp":1559654254505,"message":"Delegate Monitor: Emitting last blocks for: science[58]"}
+{"level":"ERROR","timestamp":1559654254879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654255237,"message":"Delegate Monitor: Emitting last blocks for: security[59]"}
+{"level":"INFO","timestamp":1559654255610,"message":"Delegate Monitor: Emitting last blocks for: clock[60]"}
+{"level":"ERROR","timestamp":1559654255879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654256879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654257273,"message":"Delegate Monitor: Emitting last blocks for: access[61]"}
+{"level":"INFO","timestamp":1559654257301,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654257648,"message":"Delegate Monitor: Emitting last blocks for: throw[62]"}
+{"level":"ERROR","timestamp":1559654257879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654258028,"message":"Delegate Monitor: Emitting last blocks for: wonder[63]"}
+{"level":"INFO","timestamp":1559654258132,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654258397,"message":"Delegate Monitor: Emitting last blocks for: frame[64]"}
+{"level":"INFO","timestamp":1559654258762,"message":"Delegate Monitor: Emitting last blocks for: cute[65]"}
+{"level":"ERROR","timestamp":1559654258879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654259199,"message":"Delegate Monitor: Emitting last blocks for: rich[66]"}
+{"level":"INFO","timestamp":1559654259556,"message":"Delegate Monitor: Emitting last blocks for: agent[67]"}
+{"level":"INFO","timestamp":1559654259862,"message":"Delegate Monitor: Emitting data"}
+{"level":"ERROR","timestamp":1559654259879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654259914,"message":"Delegate Monitor: Emitting last blocks for: govern[68]"}
+{"level":"INFO","timestamp":1559654260288,"message":"Delegate Monitor: Emitting last blocks for: gesture[69]"}
+{"level":"ERROR","timestamp":1559654260879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654261172,"message":"Delegate Monitor: Emitting last blocks for: near[70]"}
+{"level":"ERROR","timestamp":1559654261879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654262093,"message":"Delegate Monitor: Emitting last blocks for: inject[71]"}
+{"level":"ERROR","timestamp":1559654262879,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654263739,"message":"Delegate Monitor: Emitting last blocks for: toe[72]"}
+{"level":"ERROR","timestamp":1559654263909,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654264134,"message":"Delegate Monitor: Emitting last blocks for: august[73]"}
+{"level":"INFO","timestamp":1559654264503,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654264528,"message":"Delegate Monitor: Emitting last blocks for: sock[74]"}
+{"level":"INFO","timestamp":1559654264882,"message":"Delegate Monitor: Emitting last blocks for: found[75]"}
+{"level":"ERROR","timestamp":1559654264909,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654265281,"message":"Delegate Monitor: Emitting last blocks for: camera[76]"}
+{"level":"ERROR","timestamp":1559654265910,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654266193,"message":"Delegate Monitor: Emitting last blocks for: hat[77]"}
+{"level":"ERROR","timestamp":1559654266911,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654267112,"message":"Delegate Monitor: Emitting last blocks for: indoor[78]"}
+{"level":"INFO","timestamp":1559654267316,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654267320,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654267520,"message":"Delegate Monitor: Emitting last blocks for: expire[79]"}
+{"level":"INFO","timestamp":1559654267908,"message":"Delegate Monitor: Emitting last blocks for: inform[80]"}
+{"level":"ERROR","timestamp":1559654267910,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654268132,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654268271,"message":"Delegate Monitor: Emitting last blocks for: smile[81]"}
+{"level":"INFO","timestamp":1559654268532,"message":"api"}
+{"level":"INFO","timestamp":1559654268536,"message":"127.0.0.1 - - [04/Jun/2019:13:17:48 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/networkMonitor\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654268686,"message":"Delegate Monitor: Emitting last blocks for: yellow[82]"}
+{"level":"ERROR","timestamp":1559654268911,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654269062,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654269074,"message":"Delegate Monitor: Emitting last blocks for: brand[83]"}
+{"level":"INFO","timestamp":1559654269608,"message":"Delegate Monitor: Emitting last blocks for: two[84]"}
+{"level":"ERROR","timestamp":1559654269911,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654270286,"message":"Delegate Monitor: Emitting last blocks for: mixed[85]"}
+{"level":"ERROR","timestamp":1559654270911,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654271104,"message":"Delegate Monitor: Emitting last blocks for: affair[86]"}
+{"level":"ERROR","timestamp":1559654271912,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654272025,"message":"Delegate Monitor: Emitting last blocks for: slow[87]"}
+{"level":"INFO","timestamp":1559654272029,"message":"api"}
+{"level":"INFO","timestamp":1559654272032,"message":"127.0.0.1 - - [04/Jun/2019:13:17:52 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/networkMonitor\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654272412,"message":"Delegate Monitor: Emitting last blocks for: learn[88]"}
+{"level":"INFO","timestamp":1559654272795,"message":"Delegate Monitor: Emitting last blocks for: property[89]"}
+{"level":"ERROR","timestamp":1559654272912,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654273155,"message":"Delegate Monitor: Emitting last blocks for: dune[90]"}
+{"level":"INFO","timestamp":1559654273540,"message":"Delegate Monitor: Emitting last blocks for: blame[91]"}
+{"level":"ERROR","timestamp":1559654273913,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654273995,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654274010,"message":"Delegate Monitor: Emitting last blocks for: truth[92]"}
+{"level":"INFO","timestamp":1559654274358,"message":"Delegate Monitor: Emitting last blocks for: peace[93]"}
+{"level":"INFO","timestamp":1559654274768,"message":"Delegate Monitor: Emitting last blocks for: spy[94]"}
+{"level":"ERROR","timestamp":1559654274914,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654275711,"message":"Delegate Monitor: Emitting last blocks for: forward[95]"}
+{"level":"ERROR","timestamp":1559654275915,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654276633,"message":"Delegate Monitor: Emitting last blocks for: claw[96]"}
+{"level":"ERROR","timestamp":1559654276917,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654277287,"message":"Delegate Monitor: Emitting last blocks for: axis[97]"}
+{"level":"INFO","timestamp":1559654277762,"message":"Delegate Monitor: Emitting last blocks for: drama[98]"}
+{"level":"ERROR","timestamp":1559654277917,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654278111,"message":"Delegate Monitor: Emitting last blocks for: marble[99]"}
+{"level":"INFO","timestamp":1559654278128,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654278783,"message":"Delegate Monitor: Emitting last blocks for: mass[100]"}
+{"level":"ERROR","timestamp":1559654278917,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654279395,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654279411,"message":"Delegate Monitor: Emitting last blocks for: bread[101]"}
+{"level":"INFO","timestamp":1559654284822,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654288150,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654289032,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654289419,"message":"networkMonitor"}
+{"level":"INFO","timestamp":1559654289429,"message":"127.0.0.1 - - [04/Jun/2019:13:18:09 +0000] \"GET /networkMonitor HTTP/1.1\" 200 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654289487,"message":"Header: Closed connection"}
+{"level":"INFO","timestamp":1559654289492,"message":"Delegate Monitor: Closed connection"}
+{"level":"INFO","timestamp":1559654289493,"message":"Network Monitor: Closed connection"}
+{"level":"INFO","timestamp":1559654290310,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654290311,"message":"127.0.0.1 - - [04/Jun/2019:13:18:10 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost:6042/networkMonitor\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654290397,"message":"Header: Emitting existing delegate proposals"}
+{"level":"INFO","timestamp":1559654290397,"message":"Header: Emitting existing data"}
+{"level":"INFO","timestamp":1559654290398,"message":"Header: First connection"}
+{"level":"INFO","timestamp":1559654290424,"message":"Network Monitor: Emitting existing data"}
+{"level":"ERROR","timestamp":1559654290425,"message":"Network Monitor: Error retrieving: getBlocks (already running)"}
+{"level":"INFO","timestamp":1559654290425,"message":"Network Monitor: First connection"}
+{"level":"INFO","timestamp":1559654291073,"message":"Header: Emitting new data"}
+{"level":"INFO","timestamp":1559654302028,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654311961,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654314215,"message":"Network Monitor: Emitting new data"}
+{"level":"INFO","timestamp":1559654320153,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654321076,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654321997,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654325175,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654326071,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654329679,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654330600,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654331930,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654335105,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654335547,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654340127,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654341216,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654341428,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654344591,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654345549,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654349604,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654350567,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654351898,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654355073,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654355656,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654359938,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654360500,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654361768,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654365008,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654365928,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654370024,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654370945,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654371428,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654374611,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654375356,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654380061,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654380770,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654381863,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654384976,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654385677,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654390389,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654391379,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654391567,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654395011,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654395357,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654399901,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654400628,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654401769,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654404944,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654405455,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654410373,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654411086,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654411804,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654414647,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654415353,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654419897,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654420822,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654421742,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654424915,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654425833,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654429934,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654430298,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654431434,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654434949,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654435868,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654440376,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654441085,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654441469,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654444882,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654445466,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654450001,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654450819,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654452051,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654454922,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654455501,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654460344,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654461086,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654461432,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654464848,"message":"Network Monitor: Emitting data-1"}
+{"level":"INFO","timestamp":1559654465770,"message":"Network Monitor: Emitting data-3"}
+{"level":"INFO","timestamp":1559654466425,"message":"Network Monitor: Closed connection"}
+{"level":"INFO","timestamp":1559654466474,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654466476,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654466477,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654466478,"message":"127.0.0.1 - - [04/Jun/2019:13:21:06 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654468059,"message":"api"}
+{"level":"INFO","timestamp":1559654468062,"message":"127.0.0.1 - - [04/Jun/2019:13:21:08 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654472119,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654472534,"message":"api"}
+{"level":"INFO","timestamp":1559654472539,"message":"127.0.0.1 - - [04/Jun/2019:13:21:12 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654482052,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654492088,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654496493,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654496497,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654501518,"message":"api"}
+{"level":"INFO","timestamp":1559654501520,"message":"127.0.0.1 - - [04/Jun/2019:13:21:41 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654501768,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654502225,"message":"api"}
+{"level":"INFO","timestamp":1559654502227,"message":"127.0.0.1 - - [04/Jun/2019:13:21:42 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654511544,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654522501,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654526479,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654526489,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654531515,"message":"api"}
+{"level":"INFO","timestamp":1559654531517,"message":"127.0.0.1 - - [04/Jun/2019:13:22:11 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost:6042/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654532025,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654597303,"message":"KnownAddresses: Loading known addresses..."}
+{"level":"INFO","timestamp":1559654597304,"message":"KnownAddresses: 6"}
+{"level":"INFO","timestamp":1559654597313,"message":"Loading routes..."}
+{"level":"INFO","timestamp":1559654597315,"message":"Routes loaded"}
+{"level":"INFO","timestamp":1559654597319,"message":"Lisk Explorer started at 0.0.0.0:80"}
+{"level":"INFO","timestamp":1559654608991,"message":"robots.txt"}
+{"level":"INFO","timestamp":1559654609011,"message":"127.0.0.1 - - [04/Jun/2019:13:23:29 +0000] \"GET /robots.txt HTTP/1.1\" 200 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654609895,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654609908,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654609911,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654609915,"message":"127.0.0.1 - - [04/Jun/2019:13:23:29 +0000] \"GET /api/exchanges HTTP/1.1\" 200 47 \"http://localhost/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654609950,"message":"Header: Emitting existing delegate proposals"}
+{"level":"INFO","timestamp":1559654609951,"message":"Header: Emitting existing data"}
+{"level":"INFO","timestamp":1559654609952,"message":"Header: First connection"}
+{"level":"INFO","timestamp":1559654610304,"message":"Header: Emitting new data"}
+{"level":"INFO","timestamp":1559654614147,"message":"api"}
+{"level":"INFO","timestamp":1559654614155,"message":"127.0.0.1 - - [04/Jun/2019:13:23:34 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 - \"http://localhost/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654620862,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654624086,"message":"api"}
+{"level":"INFO","timestamp":1559654624091,"message":"127.0.0.1 - - [04/Jun/2019:13:23:44 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 - \"http://localhost/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654630844,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654637602,"message":"/api/getTransaction?transactionId=6715346063350528383"}
+{"level":"INFO","timestamp":1559654637603,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654637604,"message":"127.0.0.1 - - [04/Jun/2019:13:23:57 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost/tx/6715346063350528383\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654639451,"message":"api"}
+{"level":"INFO","timestamp":1559654639454,"message":"127.0.0.1 - - [04/Jun/2019:13:23:59 +0000] \"GET /api/getTransaction?transactionId=6715346063350528383 HTTP/1.1\" 200 624 \"http://localhost/tx/6715346063350528383\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654639891,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654639897,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654639899,"message":"127.0.0.1 - - [04/Jun/2019:13:23:59 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/tx/6715346063350528383\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654640880,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654642735,"message":"api"}
+{"level":"INFO","timestamp":1559654642741,"message":"127.0.0.1 - - [04/Jun/2019:13:24:02 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 - \"http://localhost/tx/6715346063350528383\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654650920,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654658980,"message":"/api/getAccount?address=G8859852583352394923"}
+{"level":"INFO","timestamp":1559654658980,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654658981,"message":"127.0.0.1 - - [04/Jun/2019:13:24:18 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654661259,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654662590,"message":"api"}
+{"level":"INFO","timestamp":1559654662591,"message":"127.0.0.1 - - [04/Jun/2019:13:24:22 +0000] \"GET /api/getAccount?address=G8859852583352394923 HTTP/1.1\" 200 319 \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654662640,"message":"/api/getTransfersByAddress?address=G8859852583352394923&key=transactions&limit=51&offset=0&parent=address&url=%2Fapi%2FgetTransfersByAddress"}
+{"level":"INFO","timestamp":1559654664433,"message":"api"}
+{"level":"INFO","timestamp":1559654664436,"message":"127.0.0.1 - - [04/Jun/2019:13:24:24 +0000] \"GET /api/getTransfersByAddress?address=G8859852583352394923&key=transactions&limit=51&offset=0&parent=address&url=%2Fapi%2FgetTransfersByAddress HTTP/1.1\" 200 627 \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654664613,"message":"networkMonitor"}
+{"level":"INFO","timestamp":1559654664619,"message":"127.0.0.1 - - [04/Jun/2019:13:24:24 +0000] \"GET /networkMonitor HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654665229,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654665229,"message":"127.0.0.1 - - [04/Jun/2019:13:24:25 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost/networkMonitor\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654665282,"message":"Header: Emitting existing delegate proposals"}
+{"level":"INFO","timestamp":1559654665282,"message":"Header: Emitting existing data"}
+{"level":"INFO","timestamp":1559654665282,"message":"Header: New connection"}
+{"level":"INFO","timestamp":1559654665291,"message":"Network Monitor: Emitting existing data"}
+{"level":"INFO","timestamp":1559654665292,"message":"Network Monitor: First connection"}
+{"level":"INFO","timestamp":1559654667495,"message":"delegateMonitor"}
+{"level":"INFO","timestamp":1559654667500,"message":"127.0.0.1 - - [04/Jun/2019:13:24:27 +0000] \"GET /delegateMonitor HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654667968,"message":"/api/delegates/getStandby?n=0"}
+{"level":"INFO","timestamp":1559654667969,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654667970,"message":"127.0.0.1 - - [04/Jun/2019:13:24:27 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost/delegateMonitor\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654668063,"message":"Header: Emitting existing delegate proposals"}
+{"level":"INFO","timestamp":1559654668064,"message":"Header: Emitting existing data"}
+{"level":"INFO","timestamp":1559654668064,"message":"Header: New connection"}
+{"level":"INFO","timestamp":1559654668072,"message":"Delegate Monitor: Emitting existing data"}
+{"level":"INFO","timestamp":1559654668074,"message":"Delegate Monitor: First connection"}
+{"level":"INFO","timestamp":1559654668347,"message":"api"}
+{"level":"INFO","timestamp":1559654668350,"message":"127.0.0.1 - - [04/Jun/2019:13:24:28 +0000] \"GET /api/delegates/getStandby?n=0 HTTP/1.1\" 200 100 \"http://localhost/delegateMonitor\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654669328,"message":"Delegate Monitor: Emitting new data"}
+{"level":"INFO","timestamp":1559654669892,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654669896,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654670122,"message":"Delegate Monitor: Emitting last blocks for: limb[39]"}
+{"level":"INFO","timestamp":1559654670126,"message":"Delegate Monitor: Emitting last blocks for: pact[6]"}
+{"level":"INFO","timestamp":1559654670126,"message":"Delegate Monitor: Emitting last blocks for: window[10]"}
+{"level":"INFO","timestamp":1559654670127,"message":"Delegate Monitor: Emitting last blocks for: rough[24]"}
+{"level":"ERROR","timestamp":1559654670332,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654670359,"message":"reservedWallets"}
+{"level":"INFO","timestamp":1559654670363,"message":"127.0.0.1 - - [04/Jun/2019:13:24:30 +0000] \"GET /reservedWallets HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654670506,"message":"Delegate Monitor: Emitting last blocks for: cigar[1]"}
+{"level":"INFO","timestamp":1559654670656,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654670828,"message":"/api/getAccount?address=U2065436277795836384"}
+{"level":"INFO","timestamp":1559654670829,"message":"127.0.0.1 - - [04/Jun/2019:13:24:30 +0000] \"GET /api/getAccount?address=U2065436277795836384 HTTP/1.1\" 200 61 \"http://localhost/reservedWallets\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654670830,"message":"/api/getAccount?address=U8842529089226485961"}
+{"level":"INFO","timestamp":1559654670830,"message":"127.0.0.1 - - [04/Jun/2019:13:24:30 +0000] \"GET /api/getAccount?address=U8842529089226485961 HTTP/1.1\" 200 61 \"http://localhost/reservedWallets\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654670831,"message":"/api/getAccount?address=U8842068055848619621"}
+{"level":"INFO","timestamp":1559654670831,"message":"127.0.0.1 - - [04/Jun/2019:13:24:30 +0000] \"GET /api/getAccount?address=U8842068055848619621 HTTP/1.1\" 200 61 \"http://localhost/reservedWallets\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654670833,"message":"/api/getAccount?address=U15423595369615486571"}
+{"level":"INFO","timestamp":1559654670833,"message":"127.0.0.1 - - [04/Jun/2019:13:24:30 +0000] \"GET /api/getAccount?address=U15423595369615486571 HTTP/1.1\" 200 61 \"http://localhost/reservedWallets\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654670834,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654670834,"message":"127.0.0.1 - - [04/Jun/2019:13:24:30 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost/reservedWallets\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654670883,"message":"Header: Emitting existing delegate proposals"}
+{"level":"INFO","timestamp":1559654670884,"message":"Header: Emitting existing data"}
+{"level":"INFO","timestamp":1559654670884,"message":"Header: New connection"}
+{"level":"INFO","timestamp":1559654670894,"message":"Delegate Monitor: Emitting last blocks for: direct[2]"}
+{"level":"INFO","timestamp":1559654671063,"message":"api"}
+{"level":"INFO","timestamp":1559654671063,"message":"127.0.0.1 - - [04/Jun/2019:13:24:31 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654671254,"message":"Delegate Monitor: Emitting last blocks for: mosquito[3]"}
+{"level":"ERROR","timestamp":1559654671332,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654671897,"message":"Delegate Monitor: Emitting last blocks for: index[4]"}
+{"level":"INFO","timestamp":1559654672268,"message":"Delegate Monitor: Emitting last blocks for: desk[5]"}
+{"level":"ERROR","timestamp":1559654672332,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654672362,"message":"topAccounts"}
+{"level":"INFO","timestamp":1559654672363,"message":"127.0.0.1 - - [04/Jun/2019:13:24:32 +0000] \"GET /topAccounts HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654672797,"message":"/api/totalSupply"}
+{"level":"INFO","timestamp":1559654672799,"message":"/api/getTopAccounts?key=accounts&limit=51&offset=0&url=%2Fapi%2FgetTopAccounts"}
+{"level":"INFO","timestamp":1559654672800,"message":"/api/exchanges"}
+{"level":"INFO","timestamp":1559654672800,"message":"127.0.0.1 - - [04/Jun/2019:13:24:32 +0000] \"GET /api/exchanges HTTP/1.1\" 304 - \"http://localhost/topAccounts\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654672808,"message":"Delegate Monitor: Emitting last blocks for: puzzle[7]"}
+{"level":"INFO","timestamp":1559654672846,"message":"Header: Emitting existing delegate proposals"}
+{"level":"INFO","timestamp":1559654672847,"message":"Header: Emitting existing data"}
+{"level":"INFO","timestamp":1559654672847,"message":"Header: New connection"}
+{"level":"INFO","timestamp":1559654673146,"message":"api"}
+{"level":"INFO","timestamp":1559654673147,"message":"127.0.0.1 - - [04/Jun/2019:13:24:33 +0000] \"GET /api/totalSupply HTTP/1.1\" 200 10 \"http://localhost/topAccounts\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654673150,"message":"Delegate Monitor: Emitting last blocks for: tunnel[8]"}
+{"level":"INFO","timestamp":1559654673157,"message":"127.0.0.1 - - [04/Jun/2019:13:24:33 +0000] \"GET /api/getTopAccounts?key=accounts&limit=51&offset=0&url=%2Fapi%2FgetTopAccounts HTTP/1.1\" 200 53 \"http://localhost/topAccounts\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"ERROR","timestamp":1559654673332,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654673350,"message":"api"}
+{"level":"INFO","timestamp":1559654673352,"message":"127.0.0.1 - - [04/Jun/2019:13:24:33 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654673534,"message":"Delegate Monitor: Emitting last blocks for: unfold[9]"}
+{"level":"INFO","timestamp":1559654673920,"message":"Delegate Monitor: Emitting last blocks for: horn[11]"}
+{"level":"INFO","timestamp":1559654674298,"message":"Delegate Monitor: Emitting last blocks for: industry[12]"}
+{"level":"ERROR","timestamp":1559654674333,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654674665,"message":"Delegate Monitor: Emitting last blocks for: magnet[13]"}
+{"level":"INFO","timestamp":1559654675029,"message":"Delegate Monitor: Emitting last blocks for: bring[14]"}
+{"level":"ERROR","timestamp":1559654675334,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654675758,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654675915,"message":"Delegate Monitor: Emitting last blocks for: quick[15]"}
+{"level":"ERROR","timestamp":1559654676335,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654676725,"message":"Delegate Monitor: Emitting last blocks for: cup[16]"}
+{"level":"ERROR","timestamp":1559654677336,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654677645,"message":"Delegate Monitor: Emitting last blocks for: pill[17]"}
+{"level":"INFO","timestamp":1559654678004,"message":"Delegate Monitor: Emitting last blocks for: drastic[18]"}
+{"level":"ERROR","timestamp":1559654678336,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654678565,"message":"Delegate Monitor: Emitting last blocks for: mouse[19]"}
+{"level":"INFO","timestamp":1559654679208,"message":"Delegate Monitor: Emitting last blocks for: armor[20]"}
+{"level":"ERROR","timestamp":1559654679336,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654679580,"message":"Delegate Monitor: Emitting last blocks for: hammer[21]"}
+{"level":"INFO","timestamp":1559654679976,"message":"Delegate Monitor: Emitting last blocks for: anxiety[22]"}
+{"level":"ERROR","timestamp":1559654680336,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654680902,"message":"Header: Emitting data"}
+{"level":"ERROR","timestamp":1559654681337,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654681886,"message":"Delegate Monitor: Emitting last blocks for: caution[23]"}
+{"level":"INFO","timestamp":1559654682148,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654682259,"message":"Delegate Monitor: Emitting last blocks for: citizen[25]"}
+{"level":"ERROR","timestamp":1559654682337,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654682660,"message":"Delegate Monitor: Emitting last blocks for: weapon[26]"}
+{"level":"INFO","timestamp":1559654683022,"message":"Delegate Monitor: Emitting last blocks for: first[27]"}
+{"level":"ERROR","timestamp":1559654683337,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654683357,"message":"Delegate Monitor: Emitting last blocks for: control[28]"}
+{"level":"INFO","timestamp":1559654684096,"message":"Delegate Monitor: Emitting last blocks for: age[29]"}
+{"level":"ERROR","timestamp":1559654684336,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654685019,"message":"Delegate Monitor: Emitting last blocks for: execute[30]"}
+{"level":"ERROR","timestamp":1559654685338,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654685367,"message":"Delegate Monitor: Emitting last blocks for: this[31]"}
+{"level":"INFO","timestamp":1559654685740,"message":"Delegate Monitor: Emitting last blocks for: what[32]"}
+{"level":"INFO","timestamp":1559654686194,"message":"Delegate Monitor: Emitting last blocks for: violin[33]"}
+{"level":"INFO","timestamp":1559654686197,"message":"Delegate Monitor: Emitting data"}
+{"level":"ERROR","timestamp":1559654686338,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654686568,"message":"Delegate Monitor: Emitting last blocks for: grain[34]"}
+{"level":"INFO","timestamp":1559654687248,"message":"Delegate Monitor: Emitting last blocks for: pipe[35]"}
+{"level":"ERROR","timestamp":1559654687338,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654687630,"message":"Delegate Monitor: Emitting last blocks for: spray[36]"}
+{"level":"INFO","timestamp":1559654688087,"message":"Delegate Monitor: Emitting last blocks for: girl[37]"}
+{"level":"ERROR","timestamp":1559654688338,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654688906,"message":"Delegate Monitor: Emitting last blocks for: suspect[38]"}
+{"level":"ERROR","timestamp":1559654689338,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654689935,"message":"Delegate Monitor: Emitting last blocks for: hollow[40]"}
+{"level":"INFO","timestamp":1559654690303,"message":"Delegate Monitor: Emitting last blocks for: gaze[41]"}
+{"level":"ERROR","timestamp":1559654690338,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654690662,"message":"Delegate Monitor: Emitting last blocks for: venture[42]"}
+{"level":"INFO","timestamp":1559654690671,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654690949,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654691033,"message":"Delegate Monitor: Emitting last blocks for: spoil[43]"}
+{"level":"ERROR","timestamp":1559654691338,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654691400,"message":"Delegate Monitor: Emitting last blocks for: artefact[44]"}
+{"level":"INFO","timestamp":1559654692082,"message":"Delegate Monitor: Emitting last blocks for: walnut[45]"}
+{"level":"ERROR","timestamp":1559654692338,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654693005,"message":"Delegate Monitor: Emitting last blocks for: clutch[46]"}
+{"level":"ERROR","timestamp":1559654693339,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654693926,"message":"Delegate Monitor: Emitting last blocks for: season[47]"}
+{"level":"ERROR","timestamp":1559654694339,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654694846,"message":"Delegate Monitor: Emitting last blocks for: pet[48]"}
+{"level":"INFO","timestamp":1559654695207,"message":"Delegate Monitor: Emitting last blocks for: melody[49]"}
+{"level":"ERROR","timestamp":1559654695351,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654695576,"message":"Delegate Monitor: Emitting last blocks for: spatial[50]"}
+{"level":"INFO","timestamp":1559654695930,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654695985,"message":"Delegate Monitor: Emitting last blocks for: reflect[51]"}
+{"level":"INFO","timestamp":1559654696350,"message":"Delegate Monitor: Emitting last blocks for: arm[52]"}
+{"level":"ERROR","timestamp":1559654696352,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654696716,"message":"Delegate Monitor: Emitting last blocks for: enjoy[53]"}
+{"level":"ERROR","timestamp":1559654697352,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654697384,"message":"Delegate Monitor: Emitting last blocks for: abandon[54]"}
+{"level":"INFO","timestamp":1559654698020,"message":"Delegate Monitor: Emitting last blocks for: deal[55]"}
+{"level":"ERROR","timestamp":1559654698352,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654698534,"message":"Delegate Monitor: Emitting last blocks for: distance[56]"}
+{"level":"INFO","timestamp":1559654699124,"message":"Delegate Monitor: Emitting last blocks for: airport[57]"}
+{"level":"ERROR","timestamp":1559654699352,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654699688,"message":"Delegate Monitor: Emitting last blocks for: science[58]"}
+{"level":"INFO","timestamp":1559654700059,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559654700062,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559654700314,"message":"Delegate Monitor: Emitting last blocks for: security[59]"}
+{"level":"ERROR","timestamp":1559654700354,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654701176,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654701217,"message":"Delegate Monitor: Emitting last blocks for: clock[60]"}
+{"level":"ERROR","timestamp":1559654701355,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654701579,"message":"Delegate Monitor: Emitting last blocks for: access[61]"}
+{"level":"INFO","timestamp":1559654701986,"message":"Delegate Monitor: Emitting last blocks for: throw[62]"}
+{"level":"INFO","timestamp":1559654702118,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654702354,"message":"Delegate Monitor: Emitting last blocks for: wonder[63]"}
+{"level":"ERROR","timestamp":1559654702357,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654702715,"message":"Delegate Monitor: Emitting last blocks for: frame[64]"}
+{"level":"ERROR","timestamp":1559654703357,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654703449,"message":"Delegate Monitor: Emitting last blocks for: cute[65]"}
+{"level":"INFO","timestamp":1559654703972,"message":"api"}
+{"level":"INFO","timestamp":1559654703974,"message":"127.0.0.1 - - [04/Jun/2019:13:25:03 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654704340,"message":"Delegate Monitor: Emitting last blocks for: rich[66]"}
+{"level":"ERROR","timestamp":1559654704358,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654704996,"message":"Delegate Monitor: Emitting last blocks for: agent[67]"}
+{"level":"ERROR","timestamp":1559654705358,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654706358,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654707359,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654707551,"message":"Delegate Monitor: Emitting last blocks for: govern[68]"}
+{"level":"INFO","timestamp":1559654707926,"message":"Delegate Monitor: Emitting last blocks for: gesture[69]"}
+{"level":"INFO","timestamp":1559654708298,"message":"Delegate Monitor: Emitting last blocks for: near[70]"}
+{"level":"ERROR","timestamp":1559654708359,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654708555,"message":"api"}
+{"level":"INFO","timestamp":1559654708558,"message":"127.0.0.1 - - [04/Jun/2019:13:25:08 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559654708676,"message":"Delegate Monitor: Emitting last blocks for: inject[71]"}
+{"level":"INFO","timestamp":1559654708794,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654709065,"message":"Delegate Monitor: Emitting last blocks for: toe[72]"}
+{"level":"ERROR","timestamp":1559654709359,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654709422,"message":"Delegate Monitor: Emitting last blocks for: august[73]"}
+{"level":"INFO","timestamp":1559654709787,"message":"Delegate Monitor: Emitting last blocks for: sock[74]"}
+{"level":"INFO","timestamp":1559654710197,"message":"Delegate Monitor: Emitting last blocks for: found[75]"}
+{"level":"ERROR","timestamp":1559654710359,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654710507,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654710570,"message":"Delegate Monitor: Emitting last blocks for: camera[76]"}
+{"level":"INFO","timestamp":1559654710674,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559654710927,"message":"Delegate Monitor: Emitting last blocks for: hat[77]"}
+{"level":"ERROR","timestamp":1559654711359,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654711643,"message":"Delegate Monitor: Emitting last blocks for: indoor[78]"}
+{"level":"ERROR","timestamp":1559654712360,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654712561,"message":"Delegate Monitor: Emitting last blocks for: expire[79]"}
+{"level":"ERROR","timestamp":1559654713361,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654713485,"message":"Delegate Monitor: Emitting last blocks for: inform[80]"}
+{"level":"INFO","timestamp":1559654714304,"message":"Delegate Monitor: Emitting last blocks for: smile[81]"}
+{"level":"ERROR","timestamp":1559654714361,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654714816,"message":"Delegate Monitor: Emitting last blocks for: yellow[82]"}
+{"level":"ERROR","timestamp":1559654715414,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654715553,"message":"Delegate Monitor: Emitting last blocks for: brand[83]"}
+{"level":"INFO","timestamp":1559654715955,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559654715975,"message":"Delegate Monitor: Emitting last blocks for: two[84]"}
+{"level":"ERROR","timestamp":1559654716415,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559654716660,"message":"Delegate Monitor: Emitting last blocks for: mixed[85]"}
+{"level":"ERROR","timestamp":1559654717416,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559654718417,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656372651,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656372653,"message":"Delegate Monitor: Error retrieving: Active"}
+{"level":"ERROR","timestamp":1559656372657,"message":"Header: Error retrieving: Status"}
+{"level":"ERROR","timestamp":1559656373651,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656374652,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656375653,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656376653,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656377653,"message":"Delegate Monitor: Error retrieving: Active"}
+{"level":"ERROR","timestamp":1559656377658,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656378659,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656379660,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656380661,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656381592,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656381596,"message":"/api/getLastTransfers"}
+{"level":"ERROR","timestamp":1559656381661,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656382662,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656382836,"message":"api"}
+{"level":"INFO","timestamp":1559656382839,"message":"127.0.0.1 - - [04/Jun/2019:13:53:02 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656383023,"message":"Header: Emitting data"}
+{"level":"ERROR","timestamp":1559656383663,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656384009,"message":"Delegate Monitor: Emitting data"}
+{"level":"ERROR","timestamp":1559656384664,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656384711,"message":"api"}
+{"level":"INFO","timestamp":1559656384718,"message":"127.0.0.1 - - [04/Jun/2019:13:53:04 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"ERROR","timestamp":1559656385665,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656386665,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656387666,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656387746,"message":"Delegate Monitor: Error retrieving last blocks for: affair[86]"}
+{"level":"ERROR","timestamp":1559656387746,"message":"Delegate Monitor: Error retrieving LastBlocks: Error: read ECONNRESET"}
+{"level":"INFO","timestamp":1559656387748,"message":"Error retrieving Blocks: Error: read ECONNRESET"}
+{"level":"ERROR","timestamp":1559656387748,"message":"Network Monitor: Error retrieving: Blocks"}
+{"level":"INFO","timestamp":1559656389114,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656389226,"message":"Delegate Monitor: Emitting last blocks for: window[10]"}
+{"level":"INFO","timestamp":1559656389227,"message":"Delegate Monitor: Emitting last blocks for: rough[24]"}
+{"level":"INFO","timestamp":1559656389588,"message":"Delegate Monitor: Emitting last blocks for: affair[86]"}
+{"level":"ERROR","timestamp":1559656389667,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656390071,"message":"Delegate Monitor: Emitting last blocks for: slow[87]"}
+{"level":"INFO","timestamp":1559656390470,"message":"Delegate Monitor: Emitting last blocks for: learn[88]"}
+{"level":"ERROR","timestamp":1559656390667,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656390846,"message":"Delegate Monitor: Emitting last blocks for: property[89]"}
+{"level":"INFO","timestamp":1559656391296,"message":"Delegate Monitor: Emitting last blocks for: dune[90]"}
+{"level":"ERROR","timestamp":1559656391667,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656391710,"message":"Delegate Monitor: Emitting last blocks for: blame[91]"}
+{"level":"INFO","timestamp":1559656392422,"message":"Delegate Monitor: Emitting last blocks for: truth[92]"}
+{"level":"ERROR","timestamp":1559656392668,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656392832,"message":"Delegate Monitor: Emitting last blocks for: peace[93]"}
+{"level":"INFO","timestamp":1559656393201,"message":"Delegate Monitor: Emitting last blocks for: spy[94]"}
+{"level":"INFO","timestamp":1559656393598,"message":"Delegate Monitor: Emitting last blocks for: forward[95]"}
+{"level":"ERROR","timestamp":1559656393668,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656393974,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656393992,"message":"Delegate Monitor: Emitting last blocks for: claw[96]"}
+{"level":"INFO","timestamp":1559656394036,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656394470,"message":"Delegate Monitor: Emitting last blocks for: axis[97]"}
+{"level":"ERROR","timestamp":1559656394669,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656394879,"message":"Delegate Monitor: Emitting last blocks for: drama[98]"}
+{"level":"INFO","timestamp":1559656395294,"message":"Delegate Monitor: Emitting last blocks for: marble[99]"}
+{"level":"ERROR","timestamp":1559656395669,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656395785,"message":"Delegate Monitor: Emitting last blocks for: mass[100]"}
+{"level":"INFO","timestamp":1559656396291,"message":"Delegate Monitor: Emitting last blocks for: bread[101]"}
+{"level":"INFO","timestamp":1559656398905,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656403074,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656404697,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656409227,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656411582,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656411589,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656412894,"message":"api"}
+{"level":"INFO","timestamp":1559656412897,"message":"127.0.0.1 - - [04/Jun/2019:13:53:32 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656413014,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656413927,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656415151,"message":"api"}
+{"level":"INFO","timestamp":1559656415153,"message":"127.0.0.1 - - [04/Jun/2019:13:53:35 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656419309,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656423125,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656423940,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656430038,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656433043,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656433790,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656439285,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656441587,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656441592,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656443096,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656443198,"message":"api"}
+{"level":"INFO","timestamp":1559656443201,"message":"127.0.0.1 - - [04/Jun/2019:13:54:03 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656445537,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656446128,"message":"api"}
+{"level":"INFO","timestamp":1559656446130,"message":"127.0.0.1 - - [04/Jun/2019:13:54:06 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656449208,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656453258,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656455698,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656459278,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656463027,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656463765,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656468824,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656471587,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656471590,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656472923,"message":"api"}
+{"level":"INFO","timestamp":1559656472924,"message":"127.0.0.1 - - [04/Jun/2019:13:54:32 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656473041,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656473802,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656475141,"message":"api"}
+{"level":"INFO","timestamp":1559656475144,"message":"127.0.0.1 - - [04/Jun/2019:13:54:35 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656478840,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656483054,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656483804,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656488825,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656493005,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656493856,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656498839,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656501585,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656501589,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656503108,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656503156,"message":"api"}
+{"level":"INFO","timestamp":1559656503159,"message":"127.0.0.1 - - [04/Jun/2019:13:55:03 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656503982,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656505329,"message":"api"}
+{"level":"INFO","timestamp":1559656505332,"message":"127.0.0.1 - - [04/Jun/2019:13:55:05 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656508934,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656513162,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656515006,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656518795,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656523094,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656523989,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656528846,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656531580,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656531584,"message":"/api/getLastTransfers"}
+{"level":"ERROR","timestamp":1559656533795,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656534620,"message":"Header: Emitting data"}
+{"level":"ERROR","timestamp":1559656534795,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656535232,"message":"api"}
+{"level":"INFO","timestamp":1559656535235,"message":"127.0.0.1 - - [04/Jun/2019:13:55:35 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656535496,"message":"api"}
+{"level":"INFO","timestamp":1559656535497,"message":"127.0.0.1 - - [04/Jun/2019:13:55:35 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656535905,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656539838,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656543060,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656543988,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656551763,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656553096,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656553907,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656559800,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656561584,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656561591,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656563027,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656563058,"message":"api"}
+{"level":"INFO","timestamp":1559656563060,"message":"127.0.0.1 - - [04/Jun/2019:13:56:03 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656563806,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656565280,"message":"api"}
+{"level":"INFO","timestamp":1559656565282,"message":"127.0.0.1 - - [04/Jun/2019:13:56:05 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656568955,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656573064,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656574093,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656580933,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656581191,"message":"Delegate Monitor: Emitting last blocks for: pact[6]"}
+{"level":"INFO","timestamp":1559656583106,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656584095,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656591587,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656591589,"message":"/api/getLastTransfers"}
+{"level":"ERROR","timestamp":1559656591828,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"ERROR","timestamp":1559656592665,"message":"Delegate Monitor: Error retrieving: getActive (already running)"}
+{"level":"INFO","timestamp":1559656592732,"message":"api"}
+{"level":"INFO","timestamp":1559656592734,"message":"127.0.0.1 - - [04/Jun/2019:13:56:32 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656592804,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656593038,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656594831,"message":"api"}
+{"level":"INFO","timestamp":1559656594835,"message":"127.0.0.1 - - [04/Jun/2019:13:56:34 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656598934,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656603068,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656604019,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656609151,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656613103,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656613915,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656621583,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656621589,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656621902,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656622953,"message":"api"}
+{"level":"INFO","timestamp":1559656622956,"message":"127.0.0.1 - - [04/Jun/2019:13:57:02 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656623041,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656625953,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656626057,"message":"api"}
+{"level":"INFO","timestamp":1559656626059,"message":"127.0.0.1 - - [04/Jun/2019:13:57:06 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656630030,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656633074,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656636885,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656638876,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656643026,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656646186,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656648916,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656651585,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656651589,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656653048,"message":"Header: Emitting data"}
+{"level":"ERROR","timestamp":1559656653848,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656654786,"message":"api"}
+{"level":"INFO","timestamp":1559656654787,"message":"127.0.0.1 - - [04/Jun/2019:13:57:34 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656656327,"message":"api"}
+{"level":"INFO","timestamp":1559656656330,"message":"127.0.0.1 - - [04/Jun/2019:13:57:36 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656656336,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656656349,"message":"Delegate Monitor: Emitting last blocks for: limb[39]"}
+{"level":"ERROR","timestamp":1559656660849,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656661949,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656663386,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656665763,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656669833,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656673317,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656674087,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656681584,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656681591,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656682063,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656682763,"message":"api"}
+{"level":"INFO","timestamp":1559656682767,"message":"127.0.0.1 - - [04/Jun/2019:13:58:02 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656683045,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656684341,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656684786,"message":"api"}
+{"level":"INFO","timestamp":1559656684787,"message":"127.0.0.1 - - [04/Jun/2019:13:58:04 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656689174,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656693389,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656694185,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656698996,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656703011,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656703934,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656708877,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656711574,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656711575,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656712925,"message":"api"}
+{"level":"INFO","timestamp":1559656712927,"message":"127.0.0.1 - - [04/Jun/2019:13:58:32 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656713032,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656714001,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656715403,"message":"api"}
+{"level":"INFO","timestamp":1559656715404,"message":"127.0.0.1 - - [04/Jun/2019:13:58:35 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656719004,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656723197,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656723975,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656729925,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656731481,"message":"Delegate Monitor: Emitting last blocks for: rough[24]"}
+{"level":"INFO","timestamp":1559656733120,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656733908,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656741589,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656741592,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656741637,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656743080,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656743206,"message":"api"}
+{"level":"INFO","timestamp":1559656743215,"message":"127.0.0.1 - - [04/Jun/2019:13:59:03 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656743883,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656745314,"message":"api"}
+{"level":"INFO","timestamp":1559656745318,"message":"127.0.0.1 - - [04/Jun/2019:13:59:05 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656749079,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656753191,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656754050,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656758851,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656763021,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656763809,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656768986,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656771573,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656771575,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656773064,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656773083,"message":"api"}
+{"level":"INFO","timestamp":1559656773083,"message":"127.0.0.1 - - [04/Jun/2019:13:59:33 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656773844,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656775257,"message":"api"}
+{"level":"INFO","timestamp":1559656775258,"message":"127.0.0.1 - - [04/Jun/2019:13:59:35 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656779190,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656783095,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656784079,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656791996,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656793015,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656793871,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656800297,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656801580,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656801582,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656802781,"message":"api"}
+{"level":"INFO","timestamp":1559656802783,"message":"127.0.0.1 - - [04/Jun/2019:14:00:02 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656803046,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656804922,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656804932,"message":"api"}
+{"level":"INFO","timestamp":1559656804934,"message":"127.0.0.1 - - [04/Jun/2019:14:00:04 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"ERROR","timestamp":1559656812678,"message":"Delegate Monitor: Error retrieving: getActive (already running)"}
+{"level":"INFO","timestamp":1559656812954,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656813017,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656820880,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656823010,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656823801,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656830053,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656831580,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656831584,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656833114,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656833124,"message":"api"}
+{"level":"INFO","timestamp":1559656833127,"message":"127.0.0.1 - - [04/Jun/2019:14:00:33 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656833944,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656835260,"message":"api"}
+{"level":"INFO","timestamp":1559656835261,"message":"127.0.0.1 - - [04/Jun/2019:14:00:35 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656840021,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656843103,"message":"Header: Emitting data"}
+{"level":"ERROR","timestamp":1559656847679,"message":"Delegate Monitor: Error retrieving: getActive (already running)"}
+{"level":"INFO","timestamp":1559656848006,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656850301,"message":"Delegate Monitor: Emitting last blocks for: window[10]"}
+{"level":"INFO","timestamp":1559656853446,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656856123,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656859226,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656861580,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656861585,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656863010,"message":"api"}
+{"level":"INFO","timestamp":1559656863014,"message":"127.0.0.1 - - [04/Jun/2019:14:01:03 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656863052,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656863859,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656865104,"message":"api"}
+{"level":"INFO","timestamp":1559656865108,"message":"127.0.0.1 - - [04/Jun/2019:14:01:05 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 200 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656869835,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656873015,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656873850,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656878884,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656883247,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656884023,"message":"Delegate Monitor: Emitting data"}
+{"level":"ERROR","timestamp":1559656888931,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656889696,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656891584,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656891586,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656892913,"message":"api"}
+{"level":"INFO","timestamp":1559656892916,"message":"127.0.0.1 - - [04/Jun/2019:14:01:32 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656893286,"message":"Header: Emitting data"}
+{"level":"ERROR","timestamp":1559656893931,"message":"Delegate Monitor: getLastBlocks (already running)"}
+{"level":"INFO","timestamp":1559656894049,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656896426,"message":"api"}
+{"level":"INFO","timestamp":1559656896428,"message":"127.0.0.1 - - [04/Jun/2019:14:01:36 +0000] \"GET /api/getLastTransfers HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656899066,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656903040,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656903813,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656910757,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656914088,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656914399,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656919524,"message":"Delegate Monitor: Emitting data"}
+{"level":"INFO","timestamp":1559656921583,"message":"/api/getLastBlocks"}
+{"level":"INFO","timestamp":1559656921585,"message":"/api/getLastTransfers"}
+{"level":"INFO","timestamp":1559656922960,"message":"api"}
+{"level":"INFO","timestamp":1559656922962,"message":"127.0.0.1 - - [04/Jun/2019:14:02:02 +0000] \"GET /api/getLastBlocks HTTP/1.1\" 304 - \"http://localhost/address/G8859852583352394923\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36\""}
+{"level":"INFO","timestamp":1559656923049,"message":"Header: Emitting data"}
+{"level":"INFO","timestamp":1559656926332,"message":"Delegate Monitor: Emitting data"}

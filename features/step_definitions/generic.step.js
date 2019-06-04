@@ -18,7 +18,7 @@ const {
 chai.use(chaiAsPromised);
 const expect = chai.expect;
 const EC = protractor.ExpectedConditions;
-const baseURL = 'http://localhost:80';
+const baseURL = 'http://localhost:6040';
 
 defineSupportCode(({ Given, When, Then, setDefaultTimeout }) => {
   setDefaultTimeout(20 * 1000);

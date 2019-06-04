@@ -14,7 +14,7 @@ module.exports = function (config) {
             if (result) {
                 _.each(result.BTC, function (ticker, key) {
                     if (!result.G50[key]) {
-                        result.G50[key] = result.TYS.BTC * ticker;
+                        result.G50[key] = result.G50.BTC * ticker;
                     }
                 });
                 exchange.tickers = result;

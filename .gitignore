@@ -1,6 +1,6 @@
 .idea
 dump.rdb
-
+node_modules
 bower_components
 npm-debug.log
 .DS_Store
@@ -10,8 +10,3 @@ po/*.pot
 Thumbs.db
 sftp-config.json
 blockchain_explorer.db.gz
-config.json
-config.global.js
-logs/*
-package-lock.json
-logs
