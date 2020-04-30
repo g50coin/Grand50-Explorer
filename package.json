@@ -42,7 +42,7 @@
     "fast-safe-stringify": "^1.2.0",
     "flatstr": "^1.0.5",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "leaflet": "^1.0.3",
     "leaflet.markercluster": "^1.0.5",
     "method-override": "^2.3.4",
