@@ -30,7 +30,7 @@
     "angular-resource": "^1.6.4",
     "angular-ui-bootstrap": "^2.5.0",
     "angular-ui-router": "=1.0.0-rc.1",
-    "async": "^2.0.1",
+    "async": "^2.6.4",
     "benchmark": "^2.1.1",
     "body-parser": "^1.13.2",
     "bootstrap": "^3.3.7",
