@@ -46,7 +46,7 @@
     "leaflet": "^1.0.3",
     "leaflet.markercluster": "^1.0.5",
     "method-override": "^2.3.4",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "morgan": "^1.7.0",
     "ngprogress": "https://github.com/VictorBjelkholm/ngProgress.git",
     "popsicle": "=8.2.0",
